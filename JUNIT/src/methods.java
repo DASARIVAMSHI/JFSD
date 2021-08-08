@@ -27,6 +27,7 @@ public class methods {
         String [] resultArray= {"one","two","three"};
         // assertEquals:checks whether two primitives/objects/strings are same
         assertEquals(str,str1);		
+        
         //assertTrue:-check whether the condition is true nor not
         assertTrue(val<val1);
         //assertflase:-check whether the condition is flase or not
